@@ -1,0 +1,303 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Eadd_1
+Z0 w1577456296
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dR:/Music/ModelSim/Practica0
+Z4 8R:/Music/ModelSim/Practica0/add_1.vhd
+Z5 FR:/Music/ModelSim/Practica0/add_1.vhd
+l0
+L3
+VncfYY>dQVG7MBGCHO_o=l2
+!s100 7_A[]iTDcb@Z6J7ZeI:hE0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1577456424
+!i10b 1
+Z8 !s108 1577456424.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Music/ModelSim/Practica0/add_1.vhd|
+Z10 !s107 R:/Music/ModelSim/Practica0/add_1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Afuncional
+R1
+R2
+Z13 DEx4 work 5 add_1 0 22 ncfYY>dQVG7MBGCHO_o=l2
+l7
+L6
+VC;Ag_10OR7MJ2dA=AzZiD3
+!s100 VJ6>0SYhl`bBOHl8@le:g0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eadd_8
+R0
+Z14 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R1
+R2
+R3
+Z16 8R:/Music/ModelSim/Practica0/add_8.vhd
+Z17 FR:/Music/ModelSim/Practica0/add_8.vhd
+l0
+L5
+VSW7QVM:I^>ba5EcWj>2cc1
+!s100 RmZkBI6_Dj7OKfzMiO_MC1
+R6
+32
+Z18 !s110 1577456425
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Music/ModelSim/Practica0/add_8.vhd|
+Z20 !s107 R:/Music/ModelSim/Practica0/add_8.vhd|
+!i113 1
+R11
+R12
+Afuncional
+R14
+R15
+R1
+R2
+Z21 DEx4 work 5 add_8 0 22 SW7QVM:I^>ba5EcWj>2cc1
+l22
+L20
+Vge]cK^hXYZAZ8<`9=@WYk0
+!s100 >k6S@KHg[P>4bWe8RI23c0
+R6
+32
+R18
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Acircuito
+R13
+R14
+R15
+R1
+R2
+R21
+l13
+L11
+VYYoKI=68ejXO<LGP5aG1a2
+!s100 z;V4::f@Cb0RVSX;X9K:^2
+R6
+32
+R18
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Eadd_n
+R0
+R14
+R15
+R1
+R2
+R3
+Z22 8R:/Music/ModelSim/Practica0/add_n.vhd
+Z23 FR:/Music/ModelSim/Practica0/add_n.vhd
+l0
+L5
+V`i^W]:4YgN]D?HB25dG:32
+!s100 jgV@[;o1eJ9GaOl9L8mZB3
+R6
+32
+R18
+!i10b 1
+Z24 !s108 1577456425.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Music/ModelSim/Practica0/add_n.vhd|
+Z26 !s107 R:/Music/ModelSim/Practica0/add_n.vhd|
+!i113 1
+R11
+R12
+Afuncional
+R14
+R15
+R1
+R2
+Z27 DEx4 work 5 add_n 0 22 `i^W]:4YgN]D?HB25dG:32
+l24
+L22
+VQIj=Sj>?U[A3aNkLT4<V=2
+!s100 U2ZVbaNLOPLd_2XGC^>T53
+R6
+32
+R18
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Acircuito
+R13
+R14
+R15
+R1
+R2
+R27
+l15
+L13
+V5XnDDmk`XI;^jd@^^OaVi1
+!s100 UL>6Q52c@XhnVc_5P:f=f2
+R6
+32
+R18
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Etest_add_1
+R0
+R1
+R2
+R3
+Z28 8R:/Music/ModelSim/Practica0/add_1_test.vhd
+Z29 FR:/Music/ModelSim/Practica0/add_1_test.vhd
+l0
+L3
+Vnzbm?=a;kmMEVmUE3Phhj1
+!s100 obd1IZZb[N:WKW8<Zm[nS2
+R6
+32
+R7
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Music/ModelSim/Practica0/add_1_test.vhd|
+Z31 !s107 R:/Music/ModelSim/Practica0/add_1_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R13
+R1
+R2
+DEx4 work 10 test_add_1 0 22 nzbm?=a;kmMEVmUE3Phhj1
+l9
+L4
+V:2d@nlcMT^iVl2L5>LS^O2
+!s100 ;>MMNXOW`3dCK:fH6_AhJ1
+R6
+32
+R7
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
+Etest_add_8
+R0
+R1
+R2
+R3
+Z32 8R:/Music/ModelSim/Practica0/add_8_test.vhd
+Z33 FR:/Music/ModelSim/Practica0/add_8_test.vhd
+l0
+L3
+V@7Y7GdgeEVXF6JzQGl>:@3
+!s100 oVI_]28IM4N1IFD@PXd>83
+R6
+32
+R18
+!i10b 1
+R24
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Music/ModelSim/Practica0/add_8_test.vhd|
+Z35 !s107 R:/Music/ModelSim/Practica0/add_8_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R21
+R1
+R2
+DEx4 work 10 test_add_8 0 22 @7Y7GdgeEVXF6JzQGl>:@3
+l7
+L4
+V>dX7Boc]nPao0fBCa0KfI1
+!s100 mSh3j`45J6RiJ6Rkf[@Di1
+R6
+32
+R18
+!i10b 1
+R24
+R34
+R35
+!i113 1
+R11
+R12
+Etest_add_n
+R0
+R14
+R15
+R1
+R2
+R3
+Z36 8R:/Music/ModelSim/Practica0/add_n_test.vhd
+Z37 FR:/Music/ModelSim/Practica0/add_n_test.vhd
+l0
+L5
+VazhO>VR]?mEV@SFU[7j@m0
+!s100 >@0ifBi<U`Na1F4Wl1<0d3
+R6
+32
+R18
+!i10b 1
+R24
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|R:/Music/ModelSim/Practica0/add_n_test.vhd|
+Z39 !s107 R:/Music/ModelSim/Practica0/add_n_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R27
+R14
+R15
+R1
+R2
+Z40 DEx4 work 10 test_add_n 0 22 azhO>VR]?mEV@SFU[7j@m0
+l10
+L6
+Z41 V?2fcMiP9=bAYXM6HVD]6<1
+Z42 !s100 OV4DL>?fgcPN63FHDo<8=1
+R6
+32
+R18
+!i10b 1
+R24
+R38
+R39
+!i113 1
+R11
+R12

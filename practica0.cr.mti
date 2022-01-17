@@ -1,0 +1,66 @@
+R:/Music/ModelSim/Practica0/add_n.vhd {1 {vcom -work work -2002 -explicit -stats=none R:/Music/ModelSim/Practica0/add_n.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity add_n
+-- Compiling architecture circuito of add_n
+-- Loading entity add_1
+-- Compiling architecture funcional of add_n
+-- Loading entity add_n
+
+} {} {}} R:/Music/ModelSim/Practica0/add_8_test.vhd {1 {vcom -work work -2002 -explicit -stats=none R:/Music/ModelSim/Practica0/add_8_test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_add_8
+-- Compiling architecture test of test_add_8
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading entity add_8
+
+} {} {}} R:/Music/ModelSim/Practica0/add_8.vhd {1 {vcom -work work -2002 -explicit -stats=none R:/Music/ModelSim/Practica0/add_8.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity add_8
+-- Compiling architecture circuito of add_8
+-- Loading entity add_1
+-- Compiling architecture funcional of add_8
+-- Loading entity add_8
+
+} {} {}} R:/Music/ModelSim/Practica0/add_1_test.vhd {1 {vcom -work work -2002 -explicit -stats=none R:/Music/ModelSim/Practica0/add_1_test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity test_add_1
+-- Compiling architecture test of test_add_1
+-- Loading entity add_1
+
+} {} {}} R:/Music/ModelSim/Practica0/add_n_test.vhd {1 {vcom -work work -2002 -explicit -stats=none R:/Music/ModelSim/Practica0/add_n_test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity test_add_n
+-- Compiling architecture test of test_add_n
+-- Loading entity add_n
+
+} {} {}} R:/Music/ModelSim/Practica0/add_1.vhd {1 {vcom -work work -2002 -explicit -stats=none R:/Music/ModelSim/Practica0/add_1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity add_1
+-- Compiling architecture funcional of add_1
+
+} {} {}}
